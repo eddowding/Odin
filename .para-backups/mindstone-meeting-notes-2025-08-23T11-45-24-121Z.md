@@ -1,0 +1,8 @@
+---
+para: "Archives"
+status: "done"
+tags: ["meeting", "inperson", "london", "ai", "event"]
+---
+#meeting #inperson #london  #ai #event
+-  met charlie cowan there - rememeber to follow up
+- ask for demo playbook

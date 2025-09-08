@@ -1,0 +1,32 @@
+filters:
+  and:
+    - (para-type == "inbox" OR status == "inbox" OR note.path startswith "Inbox/")
+    - status != "archived"
+properties:
+  note["file.name"]:
+    displayName: Item
+  para-type:
+    displayName: PARA
+  project:
+    displayName: Project
+  next:
+    displayName: Next action
+  priority:
+    displayName: Priority
+  created:
+    displayName: Created
+views:
+  - type: table
+    name: Inbox
+    order:
+      - -created
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - file.ext
+      - file.fullname
+      - file.links
+      - file.name
+      - file.size
+      - file.tags

@@ -1,0 +1,99 @@
+---
+para: "Projects"
+status: "active"
+outcome: "Establish an intergenerational village community in France"
+area: "Real Estate Development"
+---
+
+ with dignity.
+---
+
+## 🧭 What This Is
+
+A 21st-century village:  
+Intergenerational, professionally run, intelligently designed.  
+Rooted in nature. Powered by tech—just enough tech.
+
+- Not a commune  
+- Not utopia  
+- Just a better default
+
+---
+
+## ✨ What You Can Expect
+<grid columns="2" gap="30px">
+
+### 🏡 1. Design-Led Living
+- Architected spaces that blend privacy and connection  
+- Shared gardens, co-working, workshops, yoga, classrooms, kitchens  
+- Private dwellings: apartments, small homes, expandable units
+
+### ⚙️ 2. Just-Enough Technology
+- Repairable by design  
+- Shared EVs, drones for essentials  
+- Heat pumps, solar arrays, battery storage  
+- Robot mowers, cleaning bots, automated irrigation  
+- Greywater, compost toilets, rain capture  
+
+</grid>
+
+---
+
+<grid columns="2" gap="30px">
+
+### 🛠 3. Village-Scale Infrastructure
+- Childcare co-ops, afterschool wilding  
+- Communal meals, DIY workshops  
+- Shared tool libraries  
+- Decentralised governance via digital tools  
+- Concierge support (visas, relocation, work)
+
+### 💰 4. Economic Flexibility
+- Rent or own  
+- Easy exit/re-entry  
+- Host retreats, workations, sabbaticals  
+- Optional passive income (sublet)
+
+</grid>
+
+---
+
+## 👵👶 5. Intergenerational by Default
+
+- Eldercare, mentorship, shared wisdom  
+- Homes for all life stages  
+- Zero-pressure involvement, zero isolation
+
+---
+
+## 🚫 What This Is Not
+
+- Not a survivalist enclave  
+- Not anti-tech  
+- Not monastic  
+- Not an unstructured experiment  
+- Not a bureaucracy or spiritual cult
+
+---
+
+## 🛠 Principles
+
+1. Regenerative, not extractive  
+2. Contribution over consumption  
+3. Light governance, heavy support  
+4. Nature as the default  
+5. Work and rest in balance  
+6. Respect over rules
+
+---
+
+## 💡 Early Residents
+
+We’re looking for pioneers—not martyrs.
+
+- Families raising conscious children  
+- Professionals rethinking pace and purpose  
+- Makers, teachers, organisers, craftspeople  
+- People who believe how we live can change the world
+
+---

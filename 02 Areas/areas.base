@@ -1,0 +1,13 @@
+filters:
+  field: para-type
+  operator: equals
+  value: area
+properties:
+  - file.name
+  - standard
+  - status
+  - last-review
+sort:
+  field: file.name
+  direction: asc
+view: table

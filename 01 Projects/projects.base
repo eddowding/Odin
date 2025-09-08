@@ -1,0 +1,12 @@
+search: para-type:project -status:archived
+properties:
+  - file.name
+  - status
+  - deadline
+  - outcome
+  - progress
+  - owner
+sort:
+  field: deadline
+  direction: asc
+view: table

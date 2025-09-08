@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-para-claude",
+  "name": "PARA Method Assistant",
+  "version": "2.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Complete PARA method implementation with Bases views, smart classification, project lifecycle management, and optional Claude AI integration.",
+  "author": "PARA Plugin Developer",
+  "isDesktopOnly": true
+}

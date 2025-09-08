@@ -1,0 +1,11 @@
+{
+  "styles": {
+    "01 Projects": {
+      "backgroundColor": "#510505",
+      "opacity": 1,
+      "textColor": "#ffffff"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "030c61607073a7c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0996c24bfd8a9b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819100d7e17e1b8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6ba43ab007ffb1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "542741b15a628ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9f0b95487734b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2382a5efe8c91d86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09b77f3af316578b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b8647859f477f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e86535237574c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8901a5ad41402d41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Archives/Meetings/mindstone-meeting-notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mindstone-meeting-notes"
+            }
+          },
+          {
+            "id": "c22485a42be6e1fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11-platform-functionality-roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11-platform-functionality-roadmap"
+            }
+          },
+          {
+            "id": "d833380d8a8f95f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35c45a4e1cfc9884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11-platform-functionality-roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11-platform-functionality-roadmap"
+            }
+          },
+          {
+            "id": "733102d06bc37e74",
+            "type": "leaf",
+            "state": {
+              "type": "para-sidebar",
+              "state": {},
+              "icon": "folder-tree",
+              "title": "PARA Assistant"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "819100d7e17e1b8d",
+  "lastOpenFiles": [
+    "02 Areas/areas.base",
+    "01 Projects/projects.base",
+    "Our Fair Future/Meeting with Joseph.md",
+    "Work Plan.md",
+    "01 Projects/Active/AI-Driven Learning Schools Europe Central America.md",
+    "01 Projects/Active/Athena Blue/athena-blue.md",
+    "01 Projects/Active/moneky.md",
+    "01 Projects/Active/Markint - Salesforce <> QCI.md",
+    "01 Projects/Active/test.md",
+    "1. Projects/projects.base",
+    "CLAUDE.md",
+    "Inbox.base",
+    "04 Archives/Meetings/mindstone-meeting-notes.md",
+    "Untitled 1.md",
+    "04 Archives/Meetings",
+    "01 Projects/Active/Athena Blue/Biz plan/09-lean-year-one-roadmap.md",
+    "01 Projects/Active/Athena Blue/Biz plan/03 - project-maturity-journey-map-seagrass-restoration.md",
+    "01 Projects/Active/village-france-cohousing-project.md",
+    "2. Areas/areas.base",
+    "04 Archives/2025",
+    "3. Resources/Learning",
+    "3. Resources/Reference",
+    "2. Areas/Professional",
+    "2. Areas/Personal",
+    "01 Projects/Active/Athena Blue/Strategy/athena-blue-strategic-recommendations.md",
+    "01 Projects/Active/Athena Blue/Biz plan/05-business-model-canvas.md",
+    "01 Projects/Active/Athena Blue/Biz plan/04-corporate-buyer-journey.md",
+    "01 Projects/Active/Athena Blue/Biz plan/02-value-flow-diagram.md",
+    "01 Projects/Active/Athena Blue/Biz plan/01-problems-to-solve-matrix.md",
+    "01 Projects/Active/Athena Blue/Biz plan/brief.md",
+    "01 Projects/Active/Athena Blue/Biz plan/12_ brand-design-guide-brief.md",
+    "01 Projects/Active/Athena Blue/Biz plan/10-defensive-moats-strategy.md",
+    "01 Projects/Active/Athena Blue/Biz plan/11-platform-functionality-roadmap.md",
+    "01 Projects/Active/Athena Blue/Biz plan/08-critical-review-perspectives.md",
+    "01 Projects/Active/Athena Blue/Biz plan/06-revenue-cost-model.md",
+    "01 Projects/Active/charismatic-earth.md",
+    "Untitled.canvas"
+  ]
+}

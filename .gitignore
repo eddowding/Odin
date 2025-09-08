@@ -1,0 +1,8 @@
+# Obsidian plugin data with API keys
+.obsidian/plugins/*/data.json
+
+# Other sensitive files
+*.env
+.env.*
+secrets/
+api-keys/

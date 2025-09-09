@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0996c24bfd8a9b34",
+        "id": "e6bc136fc2c6ec0b",
         "type": "tabs",
         "children": [
           {
-            "id": "819100d7e17e1b8d",
+            "id": "78cc06c8b0276bc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Transition Risk.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Transition Risk"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9b8647859f477f15",
@@ -172,14 +176,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "819100d7e17e1b8d",
+  "active": "78cc06c8b0276bc2",
   "lastOpenFiles": [
-    "02 Areas/areas.base",
-    "01 Projects/projects.base",
+    "auto-commit.sh",
+    "01 Projects/Leafr speech.md",
+    "Transition Risk.md",
+    "2. Areas/areas.base",
+    "1. Projects/projects.base",
+    "4. Archives/2025",
+    "3. Resources/Learning",
+    "3. Resources/Reference",
+    "2. Areas/Professional",
+    "2. Areas/Personal",
+    "1. Projects/On Hold",
+    "1. Projects/Active",
+    "4. Archives",
     "Our Fair Future/Meeting with Joseph.md",
     "Work Plan.md",
     "01 Projects/Active/AI-Driven Learning Schools Europe Central America.md",
@@ -187,21 +201,12 @@
     "01 Projects/Active/moneky.md",
     "01 Projects/Active/Markint - Salesforce <> QCI.md",
     "01 Projects/Active/test.md",
-    "1. Projects/projects.base",
     "CLAUDE.md",
-    "Inbox.base",
     "04 Archives/Meetings/mindstone-meeting-notes.md",
     "Untitled 1.md",
-    "04 Archives/Meetings",
     "01 Projects/Active/Athena Blue/Biz plan/09-lean-year-one-roadmap.md",
     "01 Projects/Active/Athena Blue/Biz plan/03 - project-maturity-journey-map-seagrass-restoration.md",
     "01 Projects/Active/village-france-cohousing-project.md",
-    "2. Areas/areas.base",
-    "04 Archives/2025",
-    "3. Resources/Learning",
-    "3. Resources/Reference",
-    "2. Areas/Professional",
-    "2. Areas/Personal",
     "01 Projects/Active/Athena Blue/Strategy/athena-blue-strategic-recommendations.md",
     "01 Projects/Active/Athena Blue/Biz plan/05-business-model-canvas.md",
     "01 Projects/Active/Athena Blue/Biz plan/04-corporate-buyer-journey.md",
@@ -212,8 +217,6 @@
     "01 Projects/Active/Athena Blue/Biz plan/10-defensive-moats-strategy.md",
     "01 Projects/Active/Athena Blue/Biz plan/11-platform-functionality-roadmap.md",
     "01 Projects/Active/Athena Blue/Biz plan/08-critical-review-perspectives.md",
-    "01 Projects/Active/Athena Blue/Biz plan/06-revenue-cost-model.md",
-    "01 Projects/Active/charismatic-earth.md",
     "Untitled.canvas"
   ]
 }
